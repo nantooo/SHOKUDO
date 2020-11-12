@@ -9,8 +9,8 @@ int c =0;
 int data[10]={0,0,0,0,0,0,0,0,0,0};
 int Threshold=150;
 
-const char SSID[] = "Bw's iPhone";// need to modify for prodction 
-const char PASSWORD[] = "123456wbw";
+const char SSID[] = "";// need to modify for prodction 
+const char PASSWORD[] = "";
 
 void setup() {
   Serial.begin(115200);
